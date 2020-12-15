@@ -35,5 +35,3 @@ export default useRelativeDate;
 //   }
 // } 
 
-// https://github.com/Talkdesk/voicemails-frontend/pull/9/files
-// https://github.com/Talkdesk/voicemails-frontend/pull/153/files
