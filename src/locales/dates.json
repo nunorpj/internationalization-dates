@@ -1,0 +1,16 @@
+{
+  "default": {
+    "weekday": "long",
+    "year": "numeric",
+    "month": "long",
+    "day": "numeric"
+  },
+  "defaultRange": {
+    "hour": "numeric",
+    "minute": "numeric",
+    "day": "numeric",
+    "month": "long",
+    "weekday": "long",
+    "year": "numeric"
+  }
+}

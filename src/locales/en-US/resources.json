@@ -1,0 +1,7 @@
+{
+  "welcome": "Welcome",
+  "datesLabel": "Dates",
+  "dates": {
+    "standard": "{{date, yyyy-MM-dd}}"
+  }
+}

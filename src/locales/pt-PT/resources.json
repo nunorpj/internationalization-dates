@@ -1,0 +1,8 @@
+{
+  "welcome": "Bem Vindo",
+  "datesLabel": "Datas",
+    "dates": {
+    "standard": "{{date, dd-MM-yyyy}}"
+  }
+
+}
